@@ -1,0 +1,27 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "A simple express API for performing CRUD operation",
+  "main": "server.js",
+  "scripts": {
+    "start-server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nibble0101/countries-api.git"
+  },
+  "keywords": [
+    "API",
+    "countries"
+  ],
+  "author": "Joseph Mawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nibble0101/countries-api/issues"
+  },
+  "homepage": "https://github.com/nibble0101/countries-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
